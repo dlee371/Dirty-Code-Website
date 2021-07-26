@@ -4,6 +4,14 @@ body{
     background-size: cover;
 
 }
+#heading{
+    font-size:100px;
+    background-color: cyan;
+    border:30px solid purple;
+    padding: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
 h1{
     border: 5px solid;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
