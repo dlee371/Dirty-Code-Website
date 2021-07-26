@@ -28,25 +28,31 @@ h1{
     color:red;
     background-color: cyan;
 }
-#day{
+
+.head2{
     text-align: center;
     color:palegreen;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color:magenta;
     border:15px solid navajowhite;
+}
+
+#prof{
+    padding: 15px;
+    margin-left: 610px;
+    margin-right: 610px;
+}
+
+#day{
     padding: 15px;
     margin-left: 810px;
     margin-right: 810px;
 }
-h2{
-    text-align: center;
-    color:palegreen;
-    /* font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:magenta;
-    border:15px solid navajowhite;
+#filthy{
+    font-size: 50px;
     padding: 15px;
-    margin-left: 810px;
-    margin-right: 810px; */
+    margin-left: 650px;
+    margin-right: 650px;
 }
 h3{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
