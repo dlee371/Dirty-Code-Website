@@ -1,0 +1,89 @@
+body{
+    background-image: url("pics/hacking.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    border: 5px solid;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:red;
+    background-color: cyan;
+}
+h2{
+    background-color:slateblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:orangered;
+}
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:orchid;
+}
+a{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: cyan;
+}
+
+p{
+    color:white;
+    font-size: 20px;
+}
+
+#print{
+    padding-left:5em
+}
+
+div {
+    float: left;
+    padding: 50px; 
+  }
+  
+.div1 {
+    background-image: url("pics/anon.png");
+}
+  
+.div2 {
+    background-image: url("pics/galaxy.jpg");
+    width: auto;
+}
+  
+.div3 {
+    background-image: url("pics/hotz.jpg");
+}
+
+.div4{
+    background-image: url("pics/terry.jpg");
+    background-size: cover;
+}
+.div5{
+    float:right;
+}
+.div6{
+    float:left;
+}
+
+.div7{
+    background-color:aqua;
+    background-size: cover;
+}
+
+ul{
+    color:white;
+    font-size: large;
+}
+
+#author{
+    clear: left;
+    text-align: center;
+    background-color:teal;
+}
+
+#vid{
+    font-size: 18px;
+    color:cyan;
+    text-align: center;
+}
