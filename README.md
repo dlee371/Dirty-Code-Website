@@ -4,3 +4,5 @@ Purpose of the project is a learning experience for myself to learn more and mor
 and I plan to use this as self-educational entertainment.
 
 The website contains very inefficient code, hence the name "Dirty Code." I was inspired by the Big O notation to write code as inefficently as possible.
+
+You can find the website at: http://dirtycode.net/
