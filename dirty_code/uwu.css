@@ -6,11 +6,11 @@ body{
 }
 #heading{
     font-size:100px;
-    background-color: cyan;
     border:30px solid purple;
     padding: 15px;
     margin-left: 400px;
     margin-right: 400px;
+    
 }
 
 #blog{
@@ -116,7 +116,12 @@ ul{
 #author{
     clear: left;
     text-align: center;
-    background-color:teal;
+    color:mediumspringgreen;
+    background-color:magenta;
+    border:15px solid purple;
+    padding: 10px;
+    margin-left: 800px;
+    margin-right: 800px;
 }
 
 #vid{
