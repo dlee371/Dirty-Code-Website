@@ -21,6 +21,16 @@ body{
     margin-right: 890px;
 }
 
+#fizz{
+    color:mediumspringgreen;
+    background-color:navy;
+    border:15px solid orange;
+    padding: 10px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+
 h1{
     border: 5px solid;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
