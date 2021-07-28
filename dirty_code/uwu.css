@@ -1,141 +1,146 @@
-body{
-    background-image: url("pics/hacking.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-
+body {
+  background-image: url("pics/hacking.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-#heading{
-    font-size:100px;
-    border:30px solid purple;
-    padding: 15px;
-    margin-left: 400px;
-    margin-right: 400px;
-    
+#heading {
+  font-size: 100px;
+  border: 30px solid purple;
+  padding: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 
-#blog{
-    background-color:steelblue;
-    border:15px solid purple;
-    padding: 10px;
-    margin-left: 890px;
-    margin-right: 890px;
+#blog {
+  background-color: steelblue;
+  border: 15px solid purple;
+  padding: 10px;
+  margin-left: 890px;
+  margin-right: 890px;
 }
 
-#fizz{
-    color:mediumspringgreen;
-    background-color:navy;
-    border:15px solid orange;
-    padding: 10px;
-    margin-left: 700px;
-    margin-right: 700px;
+#fizz {
+  color: mediumspringgreen;
+  background-color: navy;
+  border: 15px solid orange;
+  padding: 10px;
+  margin-left: 700px;
+  margin-right: 700px;
 }
 
-
-h1{
-    border: 5px solid;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    color:red;
-    background-color: cyan;
+h1 {
+  border: 5px solid;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: red;
+  background-color: cyan;
 }
 
-.head2{
-    text-align: center;
-    color:palegreen;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:magenta;
-    border:15px solid navajowhite;
+.head2 {
+  text-align: center;
+  color: palegreen;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: magenta;
+  border: 15px solid navajowhite;
 }
 
-#prof{
-    padding: 15px;
-    margin-left: 610px;
-    margin-right: 610px;
+#prof {
+  padding: 15px;
+  margin-left: 610px;
+  margin-right: 610px;
 }
 
-#day{
-    padding: 15px;
-    margin-left: 810px;
-    margin-right: 810px;
+#day {
+  padding: 15px;
+  margin-left: 810px;
+  margin-right: 810px;
 }
-#filthy{
-    font-size: 50px;
-    padding: 15px;
-    margin-left: 650px;
-    margin-right: 650px;
+#filthy {
+  font-size: 50px;
+  padding: 15px;
+  margin-left: 650px;
+  margin-right: 650px;
 }
-h3{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    color:orchid;
+h3 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: center;
+  color: orchid;
 }
-a{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: large;
-    color: cyan;
-}
-
-p{
-    color:white;
-    font-size: 20px;
+a {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  color: cyan;
 }
 
-#print{
-    padding-left:5em
+p {
+  color: white;
+  font-size: 20px;
+}
+
+#print {
+  padding-left: 5em;
 }
 
 div {
-    float: left;
-    padding: 50px; 
-  }
-  
+  float: left;
+  padding: 50px;
+}
+
 .div1 {
-    background-image: url("pics/anon.png");
+  background-image: url("pics/anon.png");
 }
-  
+
 .div2 {
-    background-image: url("pics/galaxy.jpg");
-    width: auto;
+  background-image: url("pics/galaxy.jpg");
+  width: auto;
 }
-  
+
 .div3 {
-    background-image: url("pics/hotz.jpg");
+  background-image: url("pics/hotz.jpg");
 }
 
-.div4{
-    background-image: url("pics/terry.jpg");
-    background-size: cover;
+.div4 {
+  background-image: url("pics/terry.jpg");
+  background-size: cover;
 }
-.div5{
-    float:right;
+.div5 {
+  float: right;
 }
-.div6{
-    float:left;
-}
-
-.div7{
-    background-color:aqua;
-    background-size: cover;
+.div6 {
+  float: left;
 }
 
-ul{
-    color:white;
-    font-size: large;
+.div7 {
+  background-color: aqua;
+  background-size: cover;
 }
 
-#author{
-    clear: left;
-    text-align: center;
-    color:mediumspringgreen;
-    background-color:magenta;
-    border:15px solid purple;
-    padding: 10px;
-    margin-left: 800px;
-    margin-right: 800px;
+.rps {
+  background-image: url("pics/jigsaw.jpg");
+  background-size: cover;
 }
 
-#vid{
-    font-size: 18px;
-    color:cyan;
-    text-align: center;
+ul {
+  color: white;
+  font-size: large;
+}
+
+#author {
+  clear: left;
+  text-align: center;
+  color: mediumspringgreen;
+  background-color: magenta;
+  border: 15px solid purple;
+  padding: 10px;
+  margin-left: 800px;
+  margin-right: 800px;
+}
+
+#vid {
+  font-size: 18px;
+  color: cyan;
+  text-align: center;
 }
